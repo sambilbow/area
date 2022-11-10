@@ -12,7 +12,7 @@ The area~ system, which stands loosely for ‘augmented reality environmental au
 [Journal Article](https://doi.org/10.21428/66f840a4.b74711a8)
 
 ## Demonstration
-[![youtube-video.png]](https://www.youtube.com/watch?v=SPd-f2EXuIQ "area demo")
+[![area demo](youtube-video.png)](https://www.youtube.com/watch?v=SPd-f2EXuIQ "area demo")
 
 
 ## Software Requirements
