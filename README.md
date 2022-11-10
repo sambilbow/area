@@ -7,7 +7,7 @@ The area~ system, which stands loosely for ‘augmented reality environmental au
 - The ability to spectromorphologically manipulate sounds in real-time in this third environment with the body
 - The potential for creating believable illusions of real-world sound sources from these manipulated and spatialised virtual sounds.
 
-[Personal Link](https://sambilbow.com/projects/area/)
+[Project Link](https://sambilbow.com/projects/area/)
 
 [Journal Article](https://doi.org/10.21428/66f840a4.b74711a8)
 
