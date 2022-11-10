@@ -54,6 +54,10 @@ The area~ system, which stands loosely for ‘augmented reality environmental au
     - USB cable for charging
     - 2m of Cabling for IMU
 
+## How to Compose with area~
+`coming soon`
+
+
 ## Citation
 Bilbow, S. (2021). The area~ System: Exploring Real and Virtual Environments Through Gestural Ambisonics and Audio Augmented Reality. Sonic Scope: New Approaches to Audiovisual Culture. https://doi.org/10.21428/66f840a4.b74711a8
 
