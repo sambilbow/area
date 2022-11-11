@@ -58,8 +58,13 @@ The area~ system, which stands loosely for ‘augmented reality environmental au
       - 2m of Cabling for IMU
 </details>
 
-## Setting Up area~
-`coming soon`
+## Composing with area~
+### Software Setup
+`Under Construction`
+### Hardware Setup
+`Under Construction`
+### Gesture Workflow: Recording, Manipulating, Spatialising
+General operation instructions and technical outline of the system can be found [here](https://www.sonicscope.org/pub/7t8ucdi0#the-area-system).
 
 
 ## Citation
