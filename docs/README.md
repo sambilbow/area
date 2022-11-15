@@ -12,7 +12,11 @@ The area~ system, which stands loosely for ‘augmented reality environmental au
 [Journal Article](https://doi.org/10.21428/66f840a4.b74711a8)
 
 ## Demonstration
-[<img alt="area demo" width="350px" src="youtube-video.png" />](https://www.youtube.com/watch?v=SPd-f2EXuIQ)
+[![{area~ Demonstration}](https://ytcards.demolab.com/?id=SPd-f2EXuIQ&title=area~+Demonstration&lang=en&timestamp=1594834740&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "area~ Demonstration")](https://www.youtube.com/watch?v=SPd-f2EXuIQ)
+[![{area~ Update}](https://ytcards.demolab.com/?id=rhtrAERxFQQ&title=area~+Update&lang=en&timestamp=1589564340&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "area~ Update")](https://www.youtube.com/watch?v=rhtrAERxFQQ)
+[![{area~ Explanation}](https://ytcards.demolab.com/?id=iZRcBhC13_4&title=area~+Explanation&lang=en&timestamp=1584293940&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "area~ Explanation")](https://www.youtube.com/watch?v=iZRcBhC13_4)
+
+<!-- [![{ALT}](https://ytcards.demolab.com/?id={ID}&title={NAME}&lang=en&timestamp={TIME}&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "{NAME}")]({URL}) -->
 
 <details>
 <summary><h2>Software Requirements</h2></summary>
