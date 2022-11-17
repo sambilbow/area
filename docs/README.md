@@ -72,4 +72,4 @@ General operation instructions and technical outline of the system can be found 
 ## Citation
 Bilbow, S. (2021). The area~ System: Exploring Real and Virtual Environments Through Gestural Ambisonics and Audio Augmented Reality. Sonic Scope: New Approaches to Audiovisual Culture. https://doi.org/10.21428/66f840a4.b74711a8
 
-or [with BibTeX](bilbow2021area.bib)
+or [with BibTeX](citation.bib)
