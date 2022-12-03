@@ -9,7 +9,7 @@
 [![Platform](https://img.shields.io/badge/Platform-Mac-yellow?style=flat-square&logo=apple)](https://support.apple.com/macos)
 [![Environment](https://img.shields.io/badge/Environment-Max-orange?style=flat-square&logo=max&logoColor=white)](https://cycling74.com/products/max)
 [![Publication](https://img.shields.io/badge/Publication-SonicScope-green?style=flat-square&logo=readthedocs&logoColor=white)](https://doi.org/10.21428/66f840a4.b74711a8)
-[![Documentation](https://img.shields.io/badge/Guide-TBA-red?style=flat-square&logo=todoist&logoColor=white)](https://github.com/sambilbow/area/wiki)
+[![Documentation](https://img.shields.io/badge/Guide-Wiki-red?style=flat-square&logo=todoist&logoColor=white)](https://github.com/sambilbow/area/wiki)
 [![Project](https://img.shields.io/badge/Project-Blog-blue?style=flat-square&logo=jekyll&logoColor=white)](https://sambilbow.com/projects/area/)
 [![Discord](https://img.shields.io/badge/Discord-XRt%20Space-%237289da.svg?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/p3MmURSBV3)
 
